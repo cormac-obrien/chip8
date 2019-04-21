@@ -1,0 +1,8 @@
+[package]
+name = "chip8"
+version = "0.1.0"
+authors = ["Mac O'Brien <cormac@c-obrien.org>"]
+edition = "2018"
+
+[dependencies]
+byteorder = "1.3.1"
